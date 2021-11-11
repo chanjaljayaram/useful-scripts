@@ -1,0 +1,1 @@
+# Script to install Greenplum OSS on Ubuntu Bionic
